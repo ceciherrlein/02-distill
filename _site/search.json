@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-26T17:59:40-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "María Cecilia Herrlein",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-27T09:52:35-03:00"
+    }
+  ],
+  "collections": []
+}
