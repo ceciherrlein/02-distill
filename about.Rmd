@@ -1,0 +1,36 @@
+---
+title: "María Cecilia Herrlein"
+image: "ceciherrlein.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/ceciherrlein"
+  - label: Email
+    url: "mailto:ceciherrlein@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Soy economista egresada de la Universidad de Buenos Aires con una maestría en finanzas en la UTDT. 
+Actualmente me desempeño como data analyst en Banco Ciudad y como docente de economía de nivel medio. 
+
+Me interesa todo aquello relacionado con la economía y los datos. 
+
+## Educación
+
+**Universidad Torcuato Di Tella** | Buenos Aires, Argentina 
+
+Maestría en Finanzas | Marzo 2019 - Noviembre 2020
+
+**Universidad de Buenos Aires** | Buenos Aires, Argentina
+
+Licenciada en Economía | Marzo 2013 - Julio 2018
+
+## Experiencia
+
+**Banco Ciudad** | Data Analyst | Enero 2020 - Presente
