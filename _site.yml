@@ -9,4 +9,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fa fa-twitter
+      href: https://twitter.com/ceciherrlein
+    - icon: fa fa-github
+      href: https://github.com/ceciherrlein
 output: distill::distill_article
